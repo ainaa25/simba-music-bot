@@ -4,8 +4,7 @@ from simba import simba
 
 async def main():
     await simba.start()
-    print("✅ Simba Music Bot 
-telah berjaya run!")
+    print("✅ Simba Music Bot telah berjaya run!")
     await idle()
 
 if __name__ == "__main__":
