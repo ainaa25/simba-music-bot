@@ -11,4 +11,3 @@ api_hash=os.environ["API_HASH"]
 ),
 
 bot_token=os.environ["BOT_TOKEN"]
-)
