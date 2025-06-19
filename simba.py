@@ -3,6 +3,7 @@ import os
 
 simba = Client(
     "simba",
+    
     api_id = int(os.environ["API_ID"]
     ),
     
